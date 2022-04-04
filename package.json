@@ -1,11 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Josh Anaba",
+	"version": "1.0.0",
 	"description": "First backend project",
-	"keywords": [ "freecodecamp", "code", "backend" ],
+	"keywords": [
+		"freecodecamp",
+		"code",
+		"backend"
+	],
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.2"
 	},
 	"main": "server.js",
 	"scripts": {
