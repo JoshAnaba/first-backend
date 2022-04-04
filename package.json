@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Josh Anaba",
 	"description": "First backend project",
+	"keywords": [ "node", "code", "backend" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
